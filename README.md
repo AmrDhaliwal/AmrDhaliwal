@@ -12,7 +12,7 @@ With graduation so close I am looking for a position in Data Analytics, Data Sci
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="100" length="100" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" length="50" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Python Logo" width="50" length="50" />
 
