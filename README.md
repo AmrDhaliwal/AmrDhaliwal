@@ -4,7 +4,7 @@ A student graduating at the end of April 2021 who is majoring in Microbiology an
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
 the tools I use are commonly used in the field of Data Analytics such as Python, Jupyter Notebooks, and Tableau.
 Below in the section called toolbox you can find all the skills I currently am proficient in.
-With graduation so close I am looking for a position in Data Analytics, Data Science, or any Softeare Development field.
+With graduation so close I am looking for a position in Data Analytics, Data Science, or any Software Development field.
 
 # 🧰 Toolbox
 
