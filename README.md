@@ -1,4 +1,4 @@
-# Hi there 👋 i'm Amrit Dhaliwal
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> i'm Amrit Dhaliwal
 
 A university student graduating at the end of April 2021 who is majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
