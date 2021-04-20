@@ -1,4 +1,4 @@
-# Hi there 👋 i'm Amrit Dhaliwal 🇨🇦
+# Hi there 👋 i'm Amrit Dhaliwal :canada:
 
 A student graduating at the end of April 2021 who is majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
