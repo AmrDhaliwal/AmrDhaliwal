@@ -15,8 +15,6 @@ src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" a
 
 ### Libraries/Frameworks
 
-# 📖 Learning
-
 <!--
 **AmrDhaliwal/AmrDhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
