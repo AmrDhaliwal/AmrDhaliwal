@@ -12,7 +12,7 @@ With graduation so close I am looking for a position in Data Analytics, Data Sci
 Right now I am focusing on freelancing on fiverr and contributing to a wide variety of 
 open source projects on GitHub.
 
-*Current Projects being worked on and Open-Source projects I am currently contributing too*
+*Current Projects and Open-Source projects I am currently working on and/or contributing too*
 
 https://github.com/mozilla/glean.js
 
