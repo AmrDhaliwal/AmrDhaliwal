@@ -14,8 +14,8 @@ open source projects on GitHub.
 
 *Current Projects and Open-Source projects I am currently working on and/or contributing too*
 
-https://github.com/mozilla/glean.js
-https://github.com/AmrDhaliwal/django-mask
+<li>https://github.com/mozilla/glean.js</li>
+<li>https://github.com/AmrDhaliwal/django-mask</li>
 
 # 🧰 Toolbox
 
