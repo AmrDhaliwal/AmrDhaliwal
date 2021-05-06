@@ -14,7 +14,7 @@ open source projects on GitHub.
 
 *Current Projects being worked on and Open-Source projects I am currently contributing too*
 
--https://github.com/mozilla/glean.js
+https://github.com/mozilla/glean.js
 
 # 🧰 Toolbox
 
