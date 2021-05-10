@@ -11,6 +11,7 @@ With graduation so close I am looking for a position in Data Analytics, Data Sci
 # What am I upto Currently?
 Right now I am focusing on freelancing on fiverr and contributing to a wide variety of 
 open source projects on GitHub.
+Also for fun on the side I am learning the programming langauge Rust.
 
 *Current Projects and Open-Source projects I am currently working on and/or contributing too*
 
