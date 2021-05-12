@@ -6,7 +6,7 @@ the tools I use are commonly used in the field of Data Analytics such as Python,
 
 Below in the section called toolbox you can find all the skills I currently am proficient in.
 
-With graduation so close I am looking for a position in Data Analytics, Data Science, or the Software Development field.
+With graduation so close I am looking for a position in any type of Data Analytics, Data Science, or Software Development field.
 
 # What am I upto Currently?
 Right now I am focusing on freelancing on fiverr and contributing to a wide variety of 
