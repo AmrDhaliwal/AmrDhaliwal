@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="30" length="30">  I'm Amrit Dhaliwal
 
-A university student graduating at the end of April 2021 who is majoring in Microbiology and minoring in Data Science. 
+A university student majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
 the tools I use are commonly used in the field of Data Analytics such as Python, Jupyter Notebooks, and Tableau.
 
