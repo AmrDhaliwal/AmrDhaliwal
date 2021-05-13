@@ -13,12 +13,16 @@ Right now I am focusing on freelancing on fiverr and contributing to a wide vari
 open source projects on GitHub.
 Also for fun on the side I am learning the programming langauge Rust.
 
-*Current Projects and Open-Source projects I am currently working on and/or contributing too*
+*Current Projects i'm working on*
+
+<li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website</a></li>
+<li>https://github.com/AmrDhaliwal/Finance-Logger-ts</li>
+<li>https://github.com/AmrDhaliwal/todo-mongo</li>
+<li>https://github.com/AmrDhaliwal/Landing-Page</li>
+
+*Open-source projects I have contributed too*
 
 <li>https://github.com/mozilla/glean.js</li>
-<li>https://github.com/AmrDhaliwal/django-mask</li>
-<li>https://github.com/AmrDhaliwal/Finance-Logger-ts</li>
-<li>https://github.com/AmrDhaliwal/Landing-Page</li>
 
 # 🧰 Toolbox
 
