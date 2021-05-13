@@ -15,15 +15,19 @@ Also for fun on the side I am learning the programming langauge Rust.
 
 *Current Projects i'm working on*
 
-<li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website with Django and Vue</a></li>
-<li><a href="https://github.com/AmrDhaliwal/Finance-Logger-ts">Finance-logger made with Typescript</a></li>
-<li><a href="https://github.com/AmrDhaliwal/todo-mongo">To-Do list</a></li>
-<li><a href="https://github.com/AmrDhaliwal/Landing-Page">Landing-Page</a></li>
+<ul>
+  <li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website with Django and Vue</a></li>
+  <li><a href="https://github.com/AmrDhaliwal/Finance-Logger-ts">Finance-logger made with Typescript</a></li>
+  <li><a href="https://github.com/AmrDhaliwal/todo-mongo">To-Do list</a></li>
+  <li><a href="https://github.com/AmrDhaliwal/Landing-Page">Landing-Page</a></li>
+</ul>
 
 *Open-source projects I have contributed too*
 
-<li><a href="https://github.com/mozilla/glean.js">@mozilla/Glean</a></li>
-<li><a href="https://github.com/bevyengine/bevy">Game engine made with Rust</a></li>
+<ul>
+  <li><a href="https://github.com/mozilla/glean.js">mozilla/glean.js</a></li>
+  <li><a href="https://github.com/bevyengine/bevy">bevyengine/bevy</a></li>
+</ul>
 
 # 🧰 Toolbox
 
