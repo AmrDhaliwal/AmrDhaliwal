@@ -16,6 +16,7 @@ Also for fun on the side I am learning the programming langauge Rust.
 *Current Projects i'm working on*
 
 <ul>
+  <li><a href="https://github.com/AmrDhaliwal/django-mask">Portfolio website</a></li>
   <li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website with Django and Vue</a></li>
   <li><a href="https://github.com/AmrDhaliwal/Finance-Logger-ts">Finance-logger made with Typescript</a></li>
   <li><a href="https://github.com/AmrDhaliwal/todo-mongo">To-Do list</a></li>
@@ -31,7 +32,12 @@ Also for fun on the side I am learning the programming langauge Rust.
       <li>Mozilla calls it telemtry for humans</li>
     </ul>
   </li>
-  <li><a href="https://github.com/bevyengine/bevy">bevyengine/bevy</a></li>
+  <li><a href="https://github.com/bevyengine/bevy">bevyengine/bevy</a>
+    <ul>
+      <li>Built using Rustt</li>
+      <li>Is an open-source game engine</li>
+    </ul>
+  </li>
 </ul>
 
 # 🧰 Toolbox
