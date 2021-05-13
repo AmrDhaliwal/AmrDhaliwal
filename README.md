@@ -25,7 +25,12 @@ Also for fun on the side I am learning the programming langauge Rust.
 *Open-source projects I have contributed too*
 
 <ul>
-  <li><a href="https://github.com/mozilla/glean.js">mozilla/glean.js</a></li>
+  <li><a href="https://github.com/mozilla/glean.js">mozilla/glean.js</a>
+    <ul>
+      <li>Built using Typescript</li>
+      <li>Mozilla calls it telemtry for humans</li>
+    </ul>
+  </li>
   <li><a href="https://github.com/bevyengine/bevy">bevyengine/bevy</a></li>
 </ul>
 
