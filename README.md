@@ -17,10 +17,10 @@ Also for fun on the side I am learning the programming langauge Rust.
 
 <ul>
   <li><a href="https://github.com/AmrDhaliwal/django-mask">Portfolio website</a></li>
-  <li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website with Django and Vue</a></li>
+  <li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website</a></li>
   <li><a href="https://github.com/AmrDhaliwal/Finance-Logger-ts">Finance-logger made with Typescript</a></li>
-  <li><a href="https://github.com/AmrDhaliwal/todo-mongo">To-Do list</a></li>
   <li><a href="https://github.com/AmrDhaliwal/Landing-Page">Landing-Page</a></li>
+  <li>A CRUD application made with REACT</li>
 </ul>
 
 *Open-source projects I have contributed too*
