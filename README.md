@@ -34,7 +34,7 @@ Also for fun on the side I am learning the programming langauge Rust.
   </li>
   <li><a href="https://github.com/bevyengine/bevy">bevyengine/bevy</a>
     <ul>
-      <li>Built using Rustt</li>
+      <li>Built using Rust</li>
       <li>Is an open-source game engine</li>
     </ul>
   </li>
