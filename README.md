@@ -52,22 +52,8 @@ Also for fun on the side I am learning the programming langauge Rust.
 
 
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: https://github.com/AmrDhaliwal/AmrDhaliwal/blob/main/README.md
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+- name: Profile Readme Development Stats
+  uses: anmol098/waka-readme-stats@V3
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
