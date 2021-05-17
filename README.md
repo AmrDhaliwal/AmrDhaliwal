@@ -1,10 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="30" length="30">  I'm Amrit Dhaliwal
 
-A university student majoring in Microbiology and minoring in Data Science. 
+A recent university graduat majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
 the tools I use are commonly used in the field of Data Analytics such as Python, Jupyter Notebooks, and Tableau.
 
-Below in the section called toolbox you can find all the skills I currently am proficient in.
+Below in the section called toolbox you can find all the skills I work with regularly or have come across
+in my studies
 
 With graduation so close I am looking for a position in any type of Data Analytics, Data Science, or Software Development field.
 
