@@ -46,7 +46,7 @@ src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png" a
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrDhaliwal)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
