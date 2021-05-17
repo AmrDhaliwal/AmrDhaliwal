@@ -16,11 +16,10 @@ Also for fun on the side I am learning the programming langauge Rust.
 *Current Projects i'm working on*
 
 <ul>
+  <li>Building a machine learning model to deploy using FastAPI</li>
   <li><a href="https://github.com/AmrDhaliwal/django-mask">Portfolio website</a></li>
   <li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website</a></li>
-  <li><a href="https://github.com/AmrDhaliwal/Finance-Logger-ts">Finance-logger made with Typescript</a></li>
-  <li><a href="https://github.com/AmrDhaliwal/Landing-Page">Landing-Page</a></li>
-  <li>A CRUD application made with REACT</li>
+  <li>A google keep clone</li>
 </ul>
 
 *Open-source projects I have contributed too*
