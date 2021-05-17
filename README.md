@@ -9,7 +9,7 @@ in my studies
 
 Currently looking looking for a position in any type of Data Analytics, Data Science, or Software Development field.
 
-# What am I upto Currently?
+# What am I up-to Currently?
 Right now I am focusing on freelancing on fiverr and contributing to a wide variety of 
 open source projects on GitHub.
 Also for fun on the side I am learning the programming langauge Rust.
