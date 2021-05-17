@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/TheDhaliLlama)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](Dhaliwal_Amrit_resume.pdf)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://github.com/AmrDhaliwal/AmrDhaliwal/blob/main/Dhaliwal_Amrit_Resume.pdf)
 
 A recent university graduat majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
