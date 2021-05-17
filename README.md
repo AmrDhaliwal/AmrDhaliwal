@@ -1,9 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="30" length="30">  I'm Amrit Dhaliwal
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="50" length="50"><a
-href="https://www.linkedin.com/in/amritdhal/" alt="linkedin link"</a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Linkedin Logo" width="50" length="50"><a
-href="https://twitter.com/TheDhaliLlama" alt="twiiter link"</a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="50" length="50" <a
+href="https://www.linkedin.com/in/amritdhal/" alt="linkedin link"</a>>
+<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Linkedin Logo" width="50" length="50" <a
+href="https://twitter.com/TheDhaliLlama" alt="twiiter link"</a>>
 
 A recent university graduat majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
