@@ -52,7 +52,8 @@ Also for fun on the side I am learning the programming langauge Rust.
 
 **This week I spent my time on:
 <!--START_SECTION:waka-->
-
+- name: Profile Readme Development Stats
+  uses: anmol098/waka-readme-stats@V3
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
