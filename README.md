@@ -58,6 +58,7 @@ Also for fun on the side I am learning the programming langauge Rust.
 ### What I am learning right now
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" length="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" length="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50" length="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" length="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="70" length="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="Digitalocean Logo" width="50" length="50">
 
+<!-- Github stats and languages used on GitHub -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&show_icons=true&theme=tokyonight" alt="AmrDhaliwal" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrDhaliwal&hide=tcl&layout=compact" alt="AmrDhaliwal" /> </p>
 
