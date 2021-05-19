@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="30" length="30">  I'm Amrit Dhaliwal
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square) (https://github.com/AmrDhaliwal/AmrDhaliwal/blob/main/Dhaliwal_Amrit_Resume.pdf)
+[![](https://img.shields.io/badge/-resume-1C9CEA?style=flat-square)](https://github.com/AmrDhaliwal/AmrDhaliwal/blob/main/Dhaliwal_Amrit_Resume.pdf)
 
 A recent university graduat majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
