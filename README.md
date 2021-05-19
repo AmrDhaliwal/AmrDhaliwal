@@ -26,7 +26,7 @@ Also for fun on the side I am learning the programming langauge Rust.
   <li>Building a machine learning model to deploy using FastAPI</li>
   <li><a href="https://github.com/AmrDhaliwal/django-mask">Portfolio website</a></li>
   <li><a href="https://github.com/AmrDhaliwal/django-mask">E-commerce website</a></li>
-  <li>A google keep clone</li>
+  <li>A google keep clone with a Rust back-end.</li>
 </ul>
 
 *Open-source projects I have contributed too*
