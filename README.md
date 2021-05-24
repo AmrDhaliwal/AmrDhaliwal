@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
 [![](https://img.shields.io/badge/-Resume-1C9CEA?style=flat-square)](https://github.com/AmrDhaliwal/AmrDhaliwal/blob/main/Dhaliwal_Amrit_Resume.pdf)
 
-A recent university graduat majoring in Microbiology and minoring in Data Science. 
+A recent university graduate majoring in Microbiology and minoring in Data Science. 
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
 the tools I use are commonly used in the field of Data Analytics such as Python, Jupyter Notebooks, and Tableau.
 
