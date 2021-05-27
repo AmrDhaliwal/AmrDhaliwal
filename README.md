@@ -3,14 +3,14 @@
 [![](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
 [![](https://img.shields.io/badge/-Portfolio-1C9CEA?style=flat-square)](https://amrits-portfolio.herokuapp.com/)
 
-A recent university graduate majoring in Microbiology and minoring in Data Science. 
+A university student who has a passion for data but, has also found himself learning web development.
 Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
 the tools I use are commonly used in the field of Data Analytics such as Python, Jupyter Notebooks, and Tableau.
 
 Below in the section called toolbox you can find all the skills I work with regularly or have come across
 in my studies
 
-Currently looking looking for a position in any type of Data Analytics, Data Science, or Software Development field.
+Currently looking looking for a position in any type of Data Analytics, Data Science, Software Development field, front-end or back-end development.
 
 Want to talk about anything tech or data? Feel free to reach out!
 
