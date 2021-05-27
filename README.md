@@ -25,6 +25,7 @@ Also for fun on the side I am learning the programming langauge Rust.
   <li><a href="https://github.com/AmrDhaliwal/fast-api">Building a machine learning model to deploy using FastAPI</li>
   <li><a href="https://github.com/AmrDhaliwal/google-keep-clone">A google keep clone</a></li>
   <li>E-commerce Website</li>
+  <li>Discord bot built with Javascript</li>
 </ul>
 
 *Open-source projects I have contributed too*
