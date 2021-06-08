@@ -58,8 +58,8 @@ Also for fun on the side I am learning the programming langauge Rust.
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" length="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50" length="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" length="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="70" length="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes Logo" width="50" length="50">
 
 <!-- Github stats and languages used on GitHub -->
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&hide=stars&show_icons=true&theme=tokyonight" alt="AmrDhaliwal" /> </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrDhaliwal&langs_count=7&hide=tcl,XSLT,GAP,Fortran,PowerShell,Batchfile&layout=compact" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&hide=stars&show_icons=true&theme=tokyonight" alt="AmrDhaliwal" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrDhaliwal&langs_count=7&hide=tcl,XSLT,GAP,Fortran,PowerShell,Batchfile&layout=compact" /> </p>
 
 <!--
 **AmrDhaliwal/AmrDhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
