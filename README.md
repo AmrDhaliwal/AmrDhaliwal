@@ -60,8 +60,6 @@ Also for fun on the side I am learning the programming langauge Rust.
 <!-- Github stats and languages used on GitHub -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&hide=stars&show_icons=true&theme=tokyonight" alt="AmrDhaliwal" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=AmrDhaliwal&langs_count=7&hide=tcl,XSLT,GAP,Fortran,PowerShell,Batchfile&layout=compact" alt="AmrDhaliwal" />
 </a>
 <!--
