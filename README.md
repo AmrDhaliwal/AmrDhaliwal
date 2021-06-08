@@ -59,7 +59,7 @@ Also for fun on the side I am learning the programming langauge Rust.
 
 <!-- Github stats and languages used on GitHub -->
 <p> <img src="https://github-readme-stats.vercel.app/api?username=AmrDhaliwal&hide=stars&show_icons=true&theme=tokyonight" alt="AmrDhaliwal" /> </p>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrDhaliwal&langs_count=7&hide=tcl,XSLT,GAP,Fortran,PowerShell,Batchfile&layout=compact" /> </p>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrDhaliwal&langs_count=7&hide=tcl,XSLT,GAP,Fortran,PowerShell,Batchfile&layout=compact" /> </p>
 
 <!--
 **AmrDhaliwal/AmrDhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
