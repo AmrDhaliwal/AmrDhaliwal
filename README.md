@@ -3,30 +3,16 @@
 [![](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
 [![](https://img.shields.io/badge/-Portfolio-1C9CEA?style=flat-square)](https://amrits-portfolio.herokuapp.com/)
 
-A university student who has a passion for data but, has also found himself learning web development.
-Currently specializing in Data Analytics since both my majors have helped refine my skills in that field,
-the tools I use are commonly used in the field of Data Analytics such as Python, Jupyter Notebooks, and Tableau.
-
-Below in the section called toolbox you can find all the skills I work with regularly or have come across
-in my studies
-
-Currently looking looking for a position in any type of Data Analytics, Data Science, Software Development field, front-end or back-end development.
-
-Want to talk about anything tech or data? Feel free to reach out!
+I am currently a Software Developer working at a company that specializes in Home Automation. The day to day programming languages I use are Python, Javascript, and Lua.
+Yes you read that right Lua a rather small and strange language mainly used in game development but, the platform I program for use it.
 
 # What am I up-to Currently?
-Right now I am focusing on freelancing on fiverr and contributing to a wide variety of 
-open source projects on GitHub.
-Also for fun on the side I am learning the programming langauge Rust.
+
+Not a whole lot just working and brushing up on my C programming skills.
 
 *Current Projects i'm working on*
 
-<ul>
-  <li><a href="https://github.com/AmrDhaliwal/fast-api">Building a machine learning model to deploy using FastAPI</li>
-  <li><a href="https://github.com/AmrDhaliwal/google-keep-clone">A google keep clone</a></li>
-  <li>E-commerce Website built with the MERN stack</li>
-  <li>Discord bot built with Javascript</li>
-</ul>
+Nothing right now but, stay tuned I may have some things in the works.
 
 *Open-source projects I have contributed too*
 
