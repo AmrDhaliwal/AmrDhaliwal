@@ -8,11 +8,12 @@ Yes you read that right Lua a rather small and strange language mainly used in g
 
 # What am I up-to Currently?
 
-Not a whole lot just working and brushing up on my C programming skills and learning Java in my limited spare time.
+I am currently learing Golang since it is a very quick growing language in the Cloud services industry. On the side I am also, doing some C# learning in 
+an attempt to make my own mod for the game Valheim (2021 Game of the year BTW).
 
 *Current Projects i'm working on*
 
-Nothing right now but, stay tuned I may have some things in the works.
+A mod for the game Valheim. 
 
 *Open-source projects I have contributed too*
 
