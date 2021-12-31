@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Portfolio-1C9CEA?style=flat-square)](https://amrits-portfolio.herokuapp.com/)
 
 I am currently a Software Developer working at a company that specializes in Home Automation. The day to day programming languages I use are Python, Javascript, and Lua.
-Yes you read that right Lua a rather small and strange language mainly used in game development but, the platform I program for use it.
+Yes you read that right Lua a rather small and strange language mainly used in game development but, it's a small embeddable language that's easy to use.
 
 # What am I up-to Currently?
 
