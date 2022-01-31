@@ -24,12 +24,6 @@ A mod for the game Valheim.
       <li>Mozilla calls it telemtry for humans</li>
     </ul>
   </li>
-  <li><a href="https://github.com/bevyengine/bevy">bevyengine/bevy</a>
-    <ul>
-      <li>Built using Rust</li>
-      <li>Is an open-source game engine</li>
-    </ul>
-  </li>
 </ul>
 
 # 🧰 Toolbox
