@@ -3,17 +3,15 @@
 [![](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
 [![](https://img.shields.io/badge/-Portfolio-1C9CEA?style=flat-square)](https://amrits-portfolio.herokuapp.com/)
 
-I am currently a Software Developer working at a company that specializes in Home Automation. The day to day programming languages I use are Python, Javascript, and Lua.
+I am currently a Software Developer working at a company that specializes in Home Automation. The day to day programming languages I use are Python, Javascript, C#, and Lua.
 Yes you read that right Lua a rather small and strange language mainly used in game development but, it's a small embeddable language that's easy to use.
 
-# What am I up-to Currently?
+*Current Projects I'm working on*
 
-I am currently learing Golang since it is a very quick growing language in the Cloud services industry. On the side I am also, doing some C# learning in 
-an attempt to make my own mod for the game Valheim (2021 Game of the year BTW).
-
-*Current Projects i'm working on*
-
-A mod for the game Valheim. 
+<ul>
+  <li><a href="https://github.com/AmrDhaliwal/ESP32_Server">ESP32 Wi-Fi Project</a></li>
+  <li><a href="https://github.com/AmrDhaliwal/ESP_Dashboard">ESP Web Application Project</a></li>
+</ul>
 
 *Open-source projects I have contributed too*
 
