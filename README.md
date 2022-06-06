@@ -1,7 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="30" length="30">  I'm Amrit Dhaliwal
 
 [![](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
-[![](https://img.shields.io/badge/-Portfolio-1C9CEA?style=flat-square)](https://amrits-portfolio.herokuapp.com/)
 
 I am currently a Software Developer working at a company that specializes in Home Automation. The day to day programming languages I use are Python, Javascript, C#, and Lua.
 Yes you read that right Lua a rather small and strange language mainly used in game development but, it's a small embeddable language that's easy to use.
