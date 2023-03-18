@@ -5,13 +5,6 @@
 I am currently a Software Developer working at a company that specializes in Home Automation. The day to day programming languages I use are Python, Javascript, C#, and Lua.
 Yes you read that right Lua a rather small and strange language mainly used in game development but, it's a small embeddable language that's easy to use.
 
-*Current Projects I'm working on*
-
-<ul>
-  <li><a href="https://github.com/AmrDhaliwal/ESP32_Server">ESP32 Wi-Fi Project</a></li>
-  <li><a href="https://github.com/AmrDhaliwal/ESP_Dashboard">ESP Web Application Project</a></li>
-</ul>
-
 *Open-source projects I have contributed too*
 
 <ul>
