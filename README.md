@@ -9,8 +9,7 @@ Full-time Software Developer working at a company that specializes in Home Autom
 <ul>
   <li><a href="https://github.com/mozilla/glean.js">mozilla/glean.js</a>
     <ul>
-      <li>Built using Typescript</li>
-      <li>Mozilla calls it telemtry for humans</li>
+      <li>Open source project utilizing Typescript.</li>
     </ul>
   </li>
 </ul>
