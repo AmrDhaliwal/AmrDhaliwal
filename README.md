@@ -2,10 +2,9 @@
 
 [![](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square)](https://www.linkedin.com/in/amritdhal/)
 
-I am currently a Software Developer working at a company that specializes in Home Automation. The day to day programming languages I use are Python, Javascript, C#, and Lua.
-Yes you read that right Lua a rather small and strange language mainly used in game development but, it's a small embeddable language that's easy to use.
+Full-time Software Developer working at a company that specializes in Home Automation. The day-to-day programming languages I use are Python, Javascript, C#, and Lua.
 
-*Open-source projects I have contributed too*
+*Open-source projects I have contributed to*
 
 <ul>
   <li><a href="https://github.com/mozilla/glean.js">mozilla/glean.js</a>
